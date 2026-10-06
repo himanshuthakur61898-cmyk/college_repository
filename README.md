@@ -1,3 +1,4 @@
 # college_repository
 This is my first repositorty 
-himanshu thakur
+<br>
+Author himanshu thakur
