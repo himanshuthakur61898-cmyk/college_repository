@@ -1,4 +1,4 @@
 # college_repository
 This is my first repositorty 
 <br>
-Author himanshu thakur
+Author himanshu (college_repo)
